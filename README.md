@@ -1,5 +1,5 @@
 ## Hello every one
-
+Welcome to my GitHub repository! This is where I share what I learn and research. I am currently studying Information Security. In the future, I hope to become a cybersecurity expert and use my knowledge to help others. If you find this helpful, please give me a star, it means a lot to me. Thank you so much!!!
 <!--
 **lethanhman0000/lethanhman0000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
