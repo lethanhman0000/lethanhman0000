@@ -1,4 +1,4 @@
-# Xin chao cac ban <img src="HinhAnh/archlinuxx.svg" alt="icon" width="20" height="20">
+# Xin chao cac ban <img src="HinhAnh/archlinuxx.svg" alt="icon" width="30" height="30">
 
 <!--
 **lethanhman0000/lethanhman0000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
